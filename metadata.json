@@ -1,0 +1,5 @@
+{
+  "name": "SheetCompare Pro",
+  "description": "A browser-based utility to compare, merge, and track changes between two Excel files (Data Dictionary vs Live File) with change highlighting and export capabilities.",
+  "requestFramePermissions": []
+}
